@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hi, my name is Cathy Holloway. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I'm a driven, disorganised, 40-something woman who moved from Galway, Ireland to London, England in 2006 for my PhD. Since then I have gone from PhD to post-doc to lanb manager to lecturer and am now a Prof at UCL.

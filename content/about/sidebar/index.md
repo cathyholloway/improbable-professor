@@ -1,19 +1,24 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Cathy Holloway"
+role: "Chief Disorganised Leader"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
-audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+show_audio_link: false
+audio_link_label: ""
+link_list_label: "Influences" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Open Science
+  url: https://en.wikipedia.org/wiki/Open_science
+- name: Social justice
+  url: https://en.wikipedia.org/wiki/Social_justice
+- name: Irish culture
+  url: https://en.wikipedia.org/wiki/Culture_of_Ireland 
+- name: Post-traumatic growth
+  url: https://en.wikipedia.org/wiki/Post-traumatic_growth
+- name: Thích Nhất Hạnh
+  url: https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh 
+ 
 ---
 
 ** index doesn't contain a body, just front matter above.
