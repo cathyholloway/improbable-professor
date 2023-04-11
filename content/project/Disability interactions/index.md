@@ -14,7 +14,7 @@ categories:
 
 ---
 
-As part of my objective to make more of what we do at GDI Hub more open source, I developed an open platform for my Disability Interactions module for the 2o22/23 term.
+As part of my objective to make more of what we do at GDI Hub more open source, I developed an open platform for my Disability Interactions module for the 2022/23 term.
 
 The disability interaction module follows the curriculum laid out in the Disability Interactions: Creating Inclusive Innovations book. The course takes the disability interaction (DIX) approach and framework and applies it to the challenges faced by people living with ALS/MND. Whilst students can pursue individual projects which don't have ALS/MND. Most choose to build upon the co-design sessions with people living with ALS/MND for their projects. These can be concepts for new technologies or testing how people find and use current technologies. The course runs from Jan to April 2023. In March, students will submit group blog posts as part of their coursework and have the opportunity to make these publicly available on this site too. In April, the students will deliver their individual projects and again will have the opportunity of showcasing these on this site in the design showcase. At any time, students and people who are helping to deliver the course can add materials to this Handbook to:
 
