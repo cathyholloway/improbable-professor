@@ -76,7 +76,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/cathyholloway"
+      url       = "https://github.com/cathyholloway"
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
