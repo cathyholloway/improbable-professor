@@ -1,19 +1,19 @@
 ---
-title: "A campfire"
-subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
-date_end: "2021-01-13"
+title: "Disability Interaction & Innovation"
+subtitle: "IIT Madras"
+excerpt: "Exploring the approach of Disability Interaction (DIX), which combines challenge-based design with user-centred design principles to push the boundaries of the possible for accessible and assistive technology."
+date: 2023-09-24
+date_end: "2023-09-29"
 show_post_time: false
 event: "rstudio::global(2021)"
-event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+event_url: https://r2d2.iitm.ac.in/resources/courses/gian2023 
+author: "Cathy Holloway"
+location: "IIT Madras, India"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- workshop
+- course
 links:
 - icon: door-open
   icon_pack: fas

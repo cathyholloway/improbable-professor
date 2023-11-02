@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Improbable professor. Home of disorganised leadership"
+title = "Improbable professor."
 author = "Cathy Holloway"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
