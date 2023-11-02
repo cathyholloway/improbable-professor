@@ -1,7 +1,7 @@
 ---
 title: "Improbable professor"
 subtitle: "Home of Disorganised Leadership"
-description: "A personal site of Prof Cathy Holloway. I am a neurodivergent academic with a few mental health challenges. Learning to lead within the highly competitive, and often highly ordered world of academia has been challenging. It's nearly broken me. I want others to have an easier ride, to learn to trust their disroganised instincts and to help more improbable professors thrive within the world I love."
+description: "A personal site of Prof Cathy Holloway. I am a neurodivergent academic with a few mental health challenges. I am also a co-founder & Academic Director of Global Disability Innovation Hub. I am happiest when growing ideas, people and impact."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/yogi_cathy1.jpeg
