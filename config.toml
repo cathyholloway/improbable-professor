@@ -116,10 +116,15 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
+    name = "Sabbatical Life"
+    title = "sabbaatical-life"
+    url = "/sabbaatical-life/"
+    weight = 4
+  [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
+    weight = 5
  [[menu.header]]
     name = "Publications"
     title = "Publications"
