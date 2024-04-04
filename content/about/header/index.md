@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I’m a driven, disorganised, 40-something woman who moved from Galway, Ireland, to London, England, in 2006 for my PhD. Since then, I have gone from PhD to post-doc to lab manager to lecturer and am now a Professor at UCL.
+Home of divergent leadership

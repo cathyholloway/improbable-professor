@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A personal space of exploration of disorganised leadership"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk", "publication"]
+  mainSections = ["blog", "project", "talk", "sabbatical", "publication"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -106,7 +106,7 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
+    name = "blog"
     title = "Blog"
     url = "/blog/"
     weight = 2
@@ -116,9 +116,9 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Sabbatical Life"
-    title = "sabbaatical-life"
-    url = "/sabbaatical-life/"
+    name = "Sabbatical"
+    title = "sabbaatical Life"
+    url = "/sabbaatical/"
     weight = 4
   [[menu.header]]
     name = "Talks"
